@@ -1,10 +1,14 @@
-# Hi, I'm Le Van Giau 👋  
-**Aspiring BackEnd Developer**
+Hi, I'm Le Van Giau 👋
 
-🚀 I'm a 4th year Computer Science student, passionate about Backend Development and continuously learning new technologies.  
-🌱 Currently, I'm improving my skills in JavaScript, PHP, AWS, and Web3 while looking for an internship opportunity to gain hands-on experience.  
-📧 Reach me at [levangiau20032020@gmail.com](mailto:levangiau20032020@gmail.com)
+Backend Developer Intern
 
+🚀 I’m a final-year Computer Science student with hands-on experience in building scalable backend systems using Node.js, TypeScript, and PostgreSQL. I have worked on real-world projects involving API design, cloud services (AWS, Cloudflare), and CI/CD automation.
+
+🌱 Currently, I’m deepening my expertise in backend development, system design, and DevOps practices, while continuously improving my skills with modern technologies.
+
+💡 I enjoy solving complex problems, optimizing system performance, and building secure, production-ready applications.
+
+📧 Reach me at: levangiau20032020@gmail.com
 ---
 
 ### Connect with me:
