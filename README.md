@@ -1,12 +1,12 @@
 Hi, I'm Le Van Giau 👋
 
-Backend Developer Intern
+DevOps Engineer | Computer Science Graduate
 
-🚀 I’m a final-year Computer Science student with hands-on experience in building scalable backend systems using Node.js, TypeScript, and PostgreSQL. I have worked on real-world projects involving API design, cloud services (AWS, Cloudflare), and CI/CD automation.
+🚀 I am a Computer Science graduate with hands-on experience in Linux administration, Docker, CI/CD automation, cloud infrastructure, and backend development. I have worked on real-world projects involving Cloudflare automation, AWS services, deployment pipelines, and PostgreSQL-based applications.
 
-🌱 Currently, I’m deepening my expertise in backend development, system design, and DevOps practices, while continuously improving my skills with modern technologies.
+🌱 Currently, I am expanding my expertise in DevOps, Cloud Computing, Infrastructure Automation, and System Design while continuously learning modern technologies and best practices.
 
-💡 I enjoy solving complex problems, optimizing system performance, and building secure, production-ready applications.
+💡 I enjoy building reliable deployment pipelines, automating infrastructure, optimizing system performance, and developing secure, production-ready solutions.
 
 📧 Reach me at: levangiau20032020@gmail.com
 ---
